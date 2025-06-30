@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001-merge-strings-alternate
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002-greatest-common-divisor-of-strings", "002-greatest-common-divisor-of-strings\002-greatest-common-divisor-of-strings.csproj", "{2630F69B-987A-4DB8-9395-5A2378C15FF7}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Array - String", "Array - String", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003-kids-with-the-greatest-number-of-candies", "003-kids-with-the-greatest-number-of-candies\003-kids-with-the-greatest-number-of-candies.csproj", "{3A23D5EA-2354-4A5D-8A19-8017F2F915DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,9 +31,18 @@ Global
 		{2630F69B-987A-4DB8-9395-5A2378C15FF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2630F69B-987A-4DB8-9395-5A2378C15FF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2630F69B-987A-4DB8-9395-5A2378C15FF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A23D5EA-2354-4A5D-8A19-8017F2F915DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A23D5EA-2354-4A5D-8A19-8017F2F915DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A23D5EA-2354-4A5D-8A19-8017F2F915DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A23D5EA-2354-4A5D-8A19-8017F2F915DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{938EC5F2-EEA4-4612-8F44-83E73C96D532} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{2630F69B-987A-4DB8-9395-5A2378C15FF7} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{3A23D5EA-2354-4A5D-8A19-8017F2F915DA} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {868B7325-A365-4603-831F-C613F05F40B9}
