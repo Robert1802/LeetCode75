@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode75", "LeetCode75\Le
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001-merge-strings-alternately", "001-merge-strings-alternately\001-merge-strings-alternately.csproj", "{938EC5F2-EEA4-4612-8F44-83E73C96D532}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002-greatest-common-divisor-of-strings", "002-greatest-common-divisor-of-strings\002-greatest-common-divisor-of-strings.csproj", "{2630F69B-987A-4DB8-9395-5A2378C15FF7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{938EC5F2-EEA4-4612-8F44-83E73C96D532}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{938EC5F2-EEA4-4612-8F44-83E73C96D532}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{938EC5F2-EEA4-4612-8F44-83E73C96D532}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2630F69B-987A-4DB8-9395-5A2378C15FF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2630F69B-987A-4DB8-9395-5A2378C15FF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2630F69B-987A-4DB8-9395-5A2378C15FF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2630F69B-987A-4DB8-9395-5A2378C15FF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
