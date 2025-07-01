@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Array - String", "Array - S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003-kids-with-the-greatest-number-of-candies", "003-kids-with-the-greatest-number-of-candies\003-kids-with-the-greatest-number-of-candies.csproj", "{3A23D5EA-2354-4A5D-8A19-8017F2F915DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004-can-place-flowers", "004-can-place-flowers\004-can-place-flowers.csproj", "{83FE6616-5813-4A72-8E81-6569CCECF019}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{3A23D5EA-2354-4A5D-8A19-8017F2F915DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A23D5EA-2354-4A5D-8A19-8017F2F915DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A23D5EA-2354-4A5D-8A19-8017F2F915DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83FE6616-5813-4A72-8E81-6569CCECF019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83FE6616-5813-4A72-8E81-6569CCECF019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83FE6616-5813-4A72-8E81-6569CCECF019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83FE6616-5813-4A72-8E81-6569CCECF019}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -43,6 +49,7 @@ Global
 		{938EC5F2-EEA4-4612-8F44-83E73C96D532} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{2630F69B-987A-4DB8-9395-5A2378C15FF7} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{3A23D5EA-2354-4A5D-8A19-8017F2F915DA} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{83FE6616-5813-4A72-8E81-6569CCECF019} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {868B7325-A365-4603-831F-C613F05F40B9}
